@@ -14,7 +14,7 @@
 
 3. Paste in the minecraft multiplayer direct connect followed by “:25565”
 
-A more visual guide can be found at: https://docs.google.com/document/d/1p3YX3nUMtwuD5ab5yWM47FwFGp0STwEQ_gWYskj-zVo/edit?usp=sharing
+A more visual guide can be found [here](https://docs.google.com/document/d/1p3YX3nUMtwuD5ab5yWM47FwFGp0STwEQ_gWYskj-zVo/edit?usp=sharing)
 
 
 ## Patch notes 1.0.1 24/04/2020
