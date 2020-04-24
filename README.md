@@ -1,8 +1,6 @@
-## Welcome to the MineKampf210 server site!
+# Welcome to the MineKampf210 server site!
 
-
-
-### Guide to set up and connect to the MineKampf210 server
+## Guide to set up and connect to the MineKampf210 server
 
 1. Set your release to 1.15.2 from launcher
 
@@ -18,7 +16,8 @@
 
 A more visual guide can be found at: https://docs.google.com/document/d/1p3YX3nUMtwuD5ab5yWM47FwFGp0STwEQ_gWYskj-zVo/edit?usp=sharing
 
-### Patch notes 1.0.1 24/04/2020
+
+## Patch notes 1.0.1 24/04/2020
 
 * Server stability and performance updates
 * New feature: sort inventory (press middle mouse button in your inventory or chests to sort your inventory)
