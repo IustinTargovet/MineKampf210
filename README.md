@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to the MineKampf210 server site!
 
-You can use the [editor on GitHub](https://github.com/IustinTargovet/MineKampf210/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Guide to set up and connect to the MineKampf210 server
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Set your release to 1.15.2 from launcher
 
-```markdown
-Syntax highlighted code block
+2. Setting up Hamachi:
+- Download Hamachi from https://www.vpn.net/
+- Create a Hamachi account and log in
+- Click Network -> join an existing network
+- Join the network with name: MineKampf210 password: VladNociola210
+      If MineKampf210 is full, try MineKampf211 then 212 and so on
+- Right-click Iustin-XPS and copy IPv4
 
-# Header 1
-## Header 2
-### Header 3
+3. Paste in the minecraft multiplayer direct connect followed by “:25565”
 
-- Bulleted
-- List
+A more visual guide can be found at: https://docs.google.com/document/d/1p3YX3nUMtwuD5ab5yWM47FwFGp0STwEQ_gWYskj-zVo/edit?usp=sharing
 
-1. Numbered
-2. List
+### Patch notes 1.0.1 24/04/2020
 
-**Bold** and _Italic_ and `Code` text
+* Server stability and performance updates
+* New feature: sort inventory (press middle mouse button in your inventory or chests to sort your inventory)
+* Minor bug fixes: Chunks pre-rendered; splated the lag... hopefully.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IustinTargovet/MineKampf210/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
