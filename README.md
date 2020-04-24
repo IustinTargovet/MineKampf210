@@ -21,6 +21,7 @@ A more visual guide can be found [here](https://docs.google.com/document/d/1p3YX
 
 * Server stability and performance updates
 * New feature: sort inventory (press middle mouse button in your inventory or chests to sort your inventory)
+* Big new feature: mcMMO is now up, running and tested! Level up your gathering and crafting skills and gain special skills such as double drops. More about the plugin [here](https://mcmmo.org/#home)
 * Minor bug fixes: Chunks pre-rendered; splated the lag... hopefully.
 
 
