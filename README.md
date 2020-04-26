@@ -8,7 +8,7 @@
 ## Patch notes 1.0.2 26/04/2020
 
 * New location for the server!! No more Hamachi needed and it is now up 24/7.
-* The cost of running the server will be aprox 35$ / month. Any contribution would be highly appreciated.
+* The cost of running the server will be aprox 35$ / month. Any contribution would be highly appreciated. Paypal: j_tirgov@live.com
 * The new ip to connect to is 35.246.7.2:25565
 * Big in slot today: Advanced enchanting! 170 new unique enhantments! Read all about it [here](https://www.spigotmc.org/resources/%E2%AD%95%EF%B8%8F-advancedenchantments-%E2%9C%A8-create-custom-enchantments-%E2%9C%A8-170-enchants-%E2%9C%85.43058/). Watch a video about it [here](https://www.youtube.com/watch?time_continue=358&v=X_JxT0PGUHw&feature=emb_title)
 
