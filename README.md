@@ -10,7 +10,7 @@
 * Downgraded server specs to lower costs; Treat it gently! xd
 * New feature: Economy! Tired of all the stacks and stacks of seeds you get with every farming run? Now you can sell them in the `/shop` menu and rack up some cash. I've been trying to keep the economy quite harsh and made most things in the game available through the shop but at a serious price tag;
 * In the next couple of days I will try and set up new shops where you can spend all your hard earned money on things worth your while like potions, enchantments, bigger backpacks, and extra permissions like setting a home you can teleport to!
-* Known issues: the shop GUI can be sorted which messes with it
+* Known issues: the shop GUI can be sorted which messes with it; still working on some permissioning.
 
 
 ## Patch notes 1.0.2 26/04/2020
